@@ -24,6 +24,7 @@
   const ERROR = 'ERROR';
   const REGISTER = 'REGISTER';
   const REGISTERACK = 'REGISTERACK';
+  const CHAT = 'CHAT';
 
   /*
    * the module
@@ -34,6 +35,7 @@
     ERROR,
     REGISTER,
     REGISTERACK,
+    CHAT,
   };
 
 
